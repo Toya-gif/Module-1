@@ -33,5 +33,5 @@ OUTPUT
 
 
 ## RESULT
-Thus the python program to print the string in multiple lines using triple quotes.
+Thus the python program to print the string in multiple lines using triple quotes is done and verified.
 
