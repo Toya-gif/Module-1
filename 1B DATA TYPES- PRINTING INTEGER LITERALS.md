@@ -1,29 +1,31 @@
-# Experiment No: 1B- Data Types – Printing Integer Literals
+# Experiment No: 1B- Data Types – Compare Characters
 
 ## AIM  
-To write a Python program to print the following integer literals: 123, 456, 789.
-
+To write a python program to  compare the characters 'a' and 'b' and print the result as True or false
 ## ALGORITHM  
-1. Begin the program.  
-2. Initialize the integer literals `123`, `456`, and `789`.  
-3. Use the `print()` function to display the numbers `123`, `456`, and `789`.  
-4. Terminate the program.
+1)Start
+2)Input first character and store it in char1
+3)Input second character and store it in char2
+4)Compare if char1 is less than char2, print result
+5)Compare if char1 is greater than char2, print result
+6)End
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212223060292
+# Name-Toya Talyna E
 # Write your code here
 
-num1 = 123
-num2 = 456
-num3 = 789
+str1=input()
+str2=input()
+print(str1 < str2)
+print(str1 > str2)
 
-print(num1)
-print(num2)
-print(num3)
 
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/18d43aeb-c4c8-424e-bce4-1a69b9931b0a)
+
 
 ## RESULT
+Thus the python program to  compare the characters 'a' and 'b' and print the result as True or false is done and verified.
