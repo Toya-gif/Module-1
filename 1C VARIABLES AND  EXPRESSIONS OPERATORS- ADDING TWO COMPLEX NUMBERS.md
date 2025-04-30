@@ -16,8 +16,8 @@ To write a Python program for adding two complex numbers, and get the user input
 # Reg.No-212223060292
 #Name-Toya Talyna E
 #Write your code here
-a=int(input())
-b=int(input())
+a=eval(input())
+b=eval(input())
 x=complex(a,b)
 print(x)
 print(x.real)
