@@ -11,7 +11,7 @@ To create a Python program to print the string in multiple lines using triple qu
 
 ## PROGRAM
 
-
+```
 string_single_quotes = '''I am a string literal
 ... has more than one
 ... line
@@ -26,7 +26,7 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 OUTPUT
-![image](https://github.com/user-attachments/assets/ddbaba24-8ebe-4359-bf26-4dabc10b5140)
+![image](https://github.com/user-attachments/assets/5d2a7aa7-b3da-4be2-b64c-dda0c8e9d526)
 
 
 
